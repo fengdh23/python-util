@@ -16,9 +16,9 @@ config = Config(
   # "YOUR_ACCESS_KEY_ID", "YOUR_ACCESS_KEY_SECRET" 的生成请参考 https://help.aliyun.com/document_detail/175144.html
   # 如果您是用的子账号AccessKey，还需要为子账号授予权限AliyunVIAPIFullAccess，请参考https://help.aliyun.com/document_detail/145025.html
   # 您的 AccessKey ID
-  access_key_id='LTAI5t7fZAUQseupHW6n4ZUH',
+  access_key_id='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
   # 您的 AccessKey Secret
-  access_key_secret='8Q7Adu7E8IQllskrKvBjcR8Iot0MPO',
+  access_key_secret='xx',
   # 访问的域名
   endpoint='imagerecog.cn-shanghai.aliyuncs.com',
   # 访问的域名对应的region
